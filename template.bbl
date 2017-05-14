@@ -1,0 +1,153 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Floreano and Wood(2015)]{floreano2015science}
+Floreano, D.; Wood, R.J.
+\newblock Science, technology and the future of small autonomous drones.
+\newblock {\em Nature} {\bf 2015}, {\em 521},~460--466.
+
+\bibitem[Kushleyev \em{et~al.}(2013)Kushleyev, Mellinger, Powers, and
+  Kumar]{kushleyev2013towards}
+Kushleyev, A.; Mellinger, D.; Powers, C.; Kumar, V.
+\newblock Towards a swarm of agile micro quadrotors.
+\newblock {\em Autonomous Robots} {\bf 2013}, {\em 35},~287--300.
+
+\bibitem[Manning \em{et~al.}(2004)Manning, Rash, LeDuc, Noback, and
+  McKeon]{manning2004role}
+Manning, S.D.; Rash, C.E.; LeDuc, P.A.; Noback, R.K.; McKeon, J.
+\newblock The role of human causal factors in US Army unmanned aerial vehicle
+  accidents {\bf 2004}.
+
+\bibitem[McLean(1990)]{mclean1990automatic}
+McLean, D.
+\newblock Automatic flight control systems(Book).
+\newblock {\em Englewood Cliffs, NJ, Prentice Hall, 1990, 606} {\bf 1990}.
+
+\bibitem[Stevens and Lewis(2003)]{stevens2003aircraft}
+Stevens, B.L.; Lewis, F.L.
+\newblock {\em Aircraft control and simulation}; John Wiley \& Sons,  2003.
+
+\bibitem[Farrell \em{et~al.}(1998)Farrell, Barth, Galijan, and
+  Sinko]{farrell1998gps}
+Farrell, J.; Barth, M.; Galijan, R.; Sinko, J.
+\newblock GPS/INS based lateral and longitudinal control demonstration: Final
+  report.
+\newblock {\em California Partners for Advanced Transit and Highways (PATH)}
+  {\bf 1998}.
+
+\bibitem[RUAG(2015)]{RUAG}
+RUAG.
+\newblock OPATS,  2015.
+
+\bibitem[Grumman()]{UCARS}
+Grumman, N.
+\newblock MQ-8B FIRE SCOUT Vertical Takeoff and Landing Tactical Unmanned
+  Aerial Vehicle System.
+
+\bibitem[Wang \em{et~al.}(2006)Wang, Song, Nonami, Hirata, and
+  Miyazawa]{Wang2006}
+Wang, W.; Song, G.; Nonami, K.; Hirata, M.; Miyazawa, O.
+\newblock {Autonomous Control for Micro-Flying Robot and Small Wireless
+  Helicopter X.R.B}.
+\newblock  Intelligent Robots and Systems (IROS), 2006 IEEE/RSJ International
+  Conference on. IEEE,  2006, pp. 2906--2911.
+
+\bibitem[Pebrianti \em{et~al.}(2010)Pebrianti, Kendoul, Azrad, Wang, and
+  Nonami]{pebrianti2010autonomous}
+Pebrianti, D.; Kendoul, F.; Azrad, S.; Wang, W.; Nonami, K.
+\newblock Autonomous hovering and landing of a quad-rotor micro aerial vehicle
+  by means of on ground stereo vision system.
+\newblock {\em Journal of System Design and Dynamics} {\bf 2010}, {\em
+  4},~269--284.
+
+\bibitem[Martinez \em{et~al.}(2009)Martinez, Campoy, Mondragon, and
+  Olivares-Mendez]{Martinez2009a}
+Martinez, C.; Campoy, P.; Mondragon, I.; Olivares-Mendez, M.A.
+\newblock {Trinocular ground system to control UAVs}.
+\newblock  International Conference on Intelligent Robots and Systems. IEEE,
+  2009, pp. 3361--3367.
+
+\bibitem[Guan \em{et~al.}(2017)Guan, Sun, Shang, Zhang, and
+  Hofer]{guan2017multi}
+Guan, B.; Sun, X.; Shang, Y.; Zhang, X.; Hofer, M.
+\newblock Multi-camera networks for motion parameter estimation of an aircraft.
+\newblock {\em International Journal of Advanced Robotic Systems} {\bf 2017},
+  {\em 14},~1729881417692312.
+
+\bibitem[Kim and Choi(2016)]{kim2016uwb}
+Kim, E.; Choi, D.
+\newblock A UWB positioning network enabling unmanned aircraft systems auto
+  land.
+\newblock {\em Aerospace Science and Technology} {\bf 2016}, {\em
+  58},~418--426.
+
+\bibitem[Kong \em{et~al.}(2013)Kong, Zhang, Wang, Xian, and
+  Zhang]{kong2013autonomous}
+Kong, W.; Zhang, D.; Wang, X.; Xian, Z.; Zhang, J.
+\newblock Autonomous landing of an UAV with a ground-based actuated infrared
+  stereo vision system.
+\newblock  Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International
+  Conference on. IEEE,  2013, pp. 2963--2970.
+
+\bibitem[Kong \em{et~al.}(2014)Kong, Zhou, Zhang, Zhang, Wang, Zhao, Yan, Shen,
+  and Zhang]{kong2014ground}
+Kong, W.; Zhou, D.; Zhang, Y.; Zhang, D.; Wang, X.; Zhao, B.; Yan, C.; Shen,
+  L.; Zhang, J.
+\newblock A ground-based optical system for autonomous landing of a fixed wing
+  UAV.
+\newblock  Intelligent Robots and Systems (IROS), 2014 IEEE/RSJ International
+  Conference on. IEEE,  2014, pp. 4797--4804.
+
+\bibitem[Tang \em{et~al.}(2016)Tang, Hu, Shen, Zhang, Kong, and
+  Low]{tang2016ground}
+Tang, D.; Hu, T.; Shen, L.; Zhang, D.; Kong, W.; Low, K.H.
+\newblock Ground Stereo Vision-based Navigation for Autonomous Take-off and
+  Landing of UAVs: A Chan-Vese Model Approach.
+\newblock {\em International Journal of Advanced Robotic Systems} {\bf 2016},
+  {\em 13}.
+
+\bibitem[Ma \em{et~al.}(2016)Ma, Hu, and Shen]{ma2016stereo}
+Ma, Z.; Hu, T.; Shen, L.
+\newblock Stereo vision guiding for the autonomous landing of fixed-wing UAVs:
+  a saliency-inspired approach.
+\newblock {\em International Journal of Advanced Robotic Systems} {\bf 2016},
+  {\em 13},~43.
+
+\bibitem[Kong \em{et~al.}(2014)Kong, Zhou, Zhang, and Zhang]{kong2014vision}
+Kong, W.; Zhou, D.; Zhang, D.; Zhang, J.
+\newblock Vision-based autonomous landing system for unmanned aerial vehicle: A
+  survey.
+\newblock  Multisensor Fusion and Information Integration for Intelligent
+  Systems (MFI), 2014 International Conference on. IEEE,  2014, pp. 1--8.
+
+\bibitem[Gautam \em{et~al.}(2014)Gautam, Sujit, and Saripalli]{Gautam2014}
+Gautam, A.; Sujit, P.; Saripalli, S.
+\newblock {A survey of autonomous landing techniques for UAVs}.
+\newblock  2014 International Conference on Unmanned Aircraft Systems (ICUAS).
+  IEEE,  2014, pp. 1210--1218.
+
+\bibitem[Hu \em{et~al.}(2016)Hu, Zhao, Tang, Zhang, Kong, and Shen]{hu2016ros}
+Hu, T.; Zhao, B.; Tang, D.; Zhang, D.; Kong, W.; Shen, L.
+\newblock ROS-based ground stereo vision detection: implementation and
+  experiments.
+\newblock {\em Robotics and Biomimetics} {\bf 2016}, {\em 3},~14.
+
+\bibitem[Bolme \em{et~al.}(2010)Bolme, Beveridge, Draper, and
+  Lui]{bolme2010visual}
+Bolme, D.S.; Beveridge, J.R.; Draper, B.A.; Lui, Y.M.
+\newblock Visual object tracking using adaptive correlation filters.
+\newblock  Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference
+  on. IEEE,  2010, pp. 2544--2550.
+
+\bibitem[Danelljan \em{et~al.}(2014)Danelljan, H{\"a}ger, Khan, and
+  Felsberg]{danelljan2014accurate}
+Danelljan, M.; H{\"a}ger, G.; Khan, F.; Felsberg, M.
+\newblock Accurate scale estimation for robust visual tracking.
+\newblock  British Machine Vision Conference, Nottingham, September 1-5, 2014.
+  BMVA Press,  2014.
+
+\bibitem[{Beijing Universal Pioneering Technology Co., Ltd}()]{IFLY}
+{Beijing Universal Pioneering Technology Co., Ltd}.
+\newblock iFLYUAS.
+
+\end{thebibliography}
